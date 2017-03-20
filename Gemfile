@@ -17,7 +17,8 @@ gem "jekyll", "3.4.2"
 # Twitter Bootstrap
 gem "bootstrap-sass"
 
-
+# Get them jekyll addons
+gem "jekyll-assets"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
