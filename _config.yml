@@ -28,6 +28,7 @@ github_username: aces4711
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-assets
 exclude:
   - Gemfile
   - Gemfile.lock
