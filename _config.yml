@@ -28,7 +28,11 @@ github_username: aces4711
 markdown: kramdown
 gems:
   - jekyll-feed
-  - jekyll-assets
 exclude:
   - Gemfile
   - Gemfile.lock
+
+sass:
+  load_paths:
+    - bower_components/bootstrap-sass/assets/stylesheets
+    - _sass
